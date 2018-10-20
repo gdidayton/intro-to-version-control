@@ -1,6 +1,6 @@
 # Class: Intro to Version Control
 
-Git is a distributed version control system, it can be used as a server out of the box. Dedicated Git server software adds access control, display the contents of a Git repository via the web, and help to manage multiple repositories. 
+Git is a distributed version control system, it can be used as a server out of the box. Dedicated Git server software adds access control, displays the contents of a Git repository via the web, and helps to manage multiple repositories. 
 
 GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as wikis and basic task management tools for every project.
 
@@ -54,7 +54,7 @@ GDI Dayton on [Twitter](https://twitter.com/gdidayton), [Facebook](https://www.f
 
 * Your laptop (Mac, PC, Linux) and charger
 * A modern web browser (Chrome, Firefox, Safari)
-* Recommend text editor: [Visual Studio Code](https://code.visualstudio.com/download)
+* Recommended text editor: [Visual Studio Code](https://code.visualstudio.com/download)
 
 
 
