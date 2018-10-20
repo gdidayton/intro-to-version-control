@@ -27,7 +27,7 @@ Sara Cope
 
 **Slides**
 
-Available on [GitHub](https://saracope.github.io/intro-to-version-control/)
+Available on [GitHub](https://gdidayton.github.io/intro-to-version-control/#/)
 
 **Class connection**
 
@@ -39,8 +39,8 @@ GDI Dayton on [Twitter](https://twitter.com/gdidayton), [Facebook](https://www.f
 
 **Exercises**
 
-* [Exercise 1](https://github.com/saracope/intro-to-version-control/blob/master/commit_exercise.html)
-* [Exercise 2](https://github.com/saracope/intro-to-version-control/blob/master/branch_exercise.html)
+* [Exercise 1](https://github.com/gdidayton/intro-to-version-control/blob/master/commit_exercise.html)
+* [Exercise 2](https://github.com/gdidayton/intro-to-version-control/blob/master/branch_exercise.html)
 
 **Resources**
 * For Windows users, download and install [Git Bash](https://git-scm.com/downloads)
