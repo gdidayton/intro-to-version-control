@@ -29,6 +29,7 @@ Sara Cope
 
 Available on [GitHub](https://gdidayton.github.io/intro-to-version-control)
 
+
 **Class connection**
 
 Join us on [Slack](https://join.slack.com/t/gdidayton/shared_invite/enQtNDYwMTQ5Njk0OTk2LWJhYTk0MDkxOGM2OGEyNjE0ZjAwOTNiNDdhNWRhZGIzNTMzMmFmYzgzYzgzMzk5ZTQ1N2Y0ZGM4ZDBiZGZkZmQ), join the 'class--versioncontrol' channel
@@ -39,8 +40,8 @@ GDI Dayton on [Twitter](https://twitter.com/gdidayton), [Facebook](https://www.f
 
 **Exercises**
 
-* [Exercise 1](https://github.com/saracope/intro-to-version-control/blob/master/commit_exercise.html)
-* [Exercise 2](https://github.com/saracope/intro-to-version-control/blob/master/branch_exercise.html)
+* [Exercise 1](https://github.com/gdidayton/intro-to-version-control/blob/master/commit_exercise.html)
+* [Exercise 2](https://github.com/gdidayton/intro-to-version-control/blob/master/branch_exercise.html)
 
 **Resources**
 * For Windows users, download and install [Git Bash](https://git-scm.com/downloads)
